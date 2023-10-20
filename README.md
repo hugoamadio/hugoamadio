@@ -1,16 +1,35 @@
-### Hi there 👋
-dsasdas
-<!--
-**hugoamadio/hugoamadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="sua-imagem.jpg" alt="Foto de Perfil">
+</p>
 
-Here are some ideas to get you started:
+# Hello World! 👋 Eu sou Hugo Amadio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem-vindo ao meu perfil do GitHub! 🚀
+
+## Sobre mim
+- 👨‍💻 26 anos, apaixonado por tecnologia e programação
+- 🏡 Morando em Leme, SP
+- 📚 Quase concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi
+- 🎓 Técnico em Informática pela Etec Dep. Salin Sedeh de Leme
+
+## Habilidades
+### Linguagens de Programação
+- HTML
+- CSS
+- Python
+- PHP
+- Visual Basic
+
+### Banco de Dados
+- MySQL
+
+### Frontend
+- Bootstrap
+- JavaScript
+
+### Backend
+- Django
+
+## Contato
+- 📧 E-mail: seuemail@gmail.com
+- 📱 LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seuperfil)

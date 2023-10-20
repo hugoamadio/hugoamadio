@@ -12,20 +12,28 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 ## Habilidades
 
 ### Linguagens de Programação
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Basic-3333FF?style=flat&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Basic-3333FF?style=flat&logo=visual%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</div>
 
 ### Banco de Dados
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+</div>
 
 ### Frontend
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+</div>
 
 ### Backend
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+</div>
 
 ## Contato
 <img src="https://img.shields.io/badge/Email-hugo_amadio%40hotmail.com-FF5500?style=flat&logo=gmail&logoColor=white">

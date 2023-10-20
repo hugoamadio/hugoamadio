@@ -1,4 +1,4 @@
-# Hello World! 👋 Eu sou Hugo Amadio
+# Hello World! 👋 Eu sou Hugo
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 

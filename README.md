@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="sua-imagem.jpg" alt="Foto de Perfil">
-</p>
-
 # Hello World! 👋 Eu sou Hugo Amadio
 
 Bem-vindo ao meu perfil do GitHub! 🚀
@@ -31,5 +27,5 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 - Django
 
 ## Contato
-- 📧 E-mail: seuemail@gmail.com
-- 📱 LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seuperfil)
+- 📧 E-mail: hugo_amadio@hotmail.com
+- 📱 LinkedIn: linkedin.com/in/hugoamadio

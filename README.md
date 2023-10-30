@@ -5,6 +5,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 ## Sobre mim
 - 👨‍💻 26 anos, apaixonado por tecnologia e programação
 - 🏡 Morando em Leme, SP
+- 18° Turma de Web FullStack da GrowDev
 - 📚 Quase concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi
 - 🎓 Técnico em Informática pela Etec Dep. Salin Sedeh de Leme
 - 👨‍🏫 Professor de robótica

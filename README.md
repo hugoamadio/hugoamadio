@@ -9,6 +9,8 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 - 📚 Quase concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi
 - 🎓 Técnico em Informática pela Etec Dep. Salin Sedeh de Leme
 - 👨‍🏫 Professor de robótica
+- 🎾 Jogador de tenis de fim de semana
+
 
 ## Habilidades
 

@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 
 
 Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi e experiência em FullStack, destacando-me em JavaScript, React, Node.js, TypeScript e Bootstrap. Atuo como educador de Robótica e Tecnologias Educacionais, buscando oportunidades no mercado de desenvolvimento FullStack, com foco em e-commerce e desenvolvimento web, sempre em busca de evolução e contribuição para o sucesso de projetos e equipes.
-
+##
 - 👨‍💻 26 anos, apaixonado por tecnologia e programação.
 - 🏡 Morando em Leme, SP.
 - 👨🏻‍💻 18° Turma de Web FullStack da GrowDev.
@@ -14,7 +14,7 @@ Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistema
 - 🎾 Jogador de tenis aos finais de semana.
 
 
-## Habilidades
+## 
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -33,5 +33,7 @@ Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistema
 
 
 ## Contato
+<div style ="display: flex; flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/Email-hugo_amadio%40hotmail.com-FF5500?style=flat&logo=gmail&logoColor=white">
 <img src="https://img.shields.io/badge/LinkedIn-hugoamadio-0077B5?style=flat&logo=linkedin&logoColor=white">
+</div>

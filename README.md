@@ -2,9 +2,9 @@
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
-<div style="margin-left: 20px, margin-right: 20px">
+
 Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi e experiência em FullStack, destacando-me em JavaScript, React, Node.js, TypeScript e Bootstrap. Complementei minha base técnica na Etec Dep. Salim Sedeh e tenho explorado Python, Django e Shopify. Atuo como educador de Robótica e Tecnologias Educacionais, buscando oportunidades no mercado de desenvolvimento FullStack, com foco em e-commerce e tecnologia educacional, sempre em busca de evolução e contribuição para o sucesso de projetos e equipes.
-</div>
+
 - 👨‍💻 26 anos, apaixonado por tecnologia e programação.
 - 🏡 Morando em Leme, SP.
 - 👨🏻‍💻 18° Turma de Web FullStack da GrowDev.

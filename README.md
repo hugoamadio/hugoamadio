@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub! 🚀
 
 
-Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi e experiência em FullStack, destacando-me em JavaScript, React, Node.js, TypeScript e Bootstrap. Atuo como educador de Robótica e Tecnologias Educacionais, buscando oportunidades no mercado de desenvolvimento FullStack, com foco em e-commerce e desenvolvimento web, sempre em busca de evolução e contribuição para o sucesso de projetos e equipes.
+Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi e experiência em FullStack, destacando-me em JavaScript, React, Node.js, TypeScript. Atuo como professor de Robótica e Tecnologias Educacionais, buscando oportunidades no mercado de desenvolvimento FullStack, com foco em e-commerce e desenvolvimento web, sempre em busca de evolução e contribuição para o sucesso de projetos e equipes.
 ##
 - 👨‍💻 26 anos, apaixonado por tecnologia e programação.
 - 🏡 Morando em Leme, SP.

@@ -32,6 +32,8 @@ Entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistema
   <img src="https://img.shields.io/badge/Render-008080?style=flat&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Axios-007ACC?style=flat&logo=axios&logoColor=white" alt="Axios">
 
 </div>
 

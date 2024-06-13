@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi Técnico em informática pela Etec Deputado Salim Sedeh, conhecimento sólido em JavaScript, Bootstrap, React, Node.js, TypeScript. Atuo como professor de Robótica e Tecnologias Educacionais, busco oportunidades no mercado de desenvolvimento, sempre em busca de evolução e contribuição para o sucesso de projetos e equipes.
 
 ##
-- 👨‍💻 26 anos, apaixonado por tecnologia e programação.
+- 👨‍💻 27 anos, apaixonado por tecnologia e programação.
 - 🏡 Morando em Leme, SP.
 - 👨🏻‍💻 18° Turma de Web FullStack da GrowDev.
 - 📚 Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.

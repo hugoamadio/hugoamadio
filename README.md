@@ -2,20 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
-
-Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi Técnico em informática pela Etec Deputado Salim Sedeh, conhecimento sólido em JavaScript, Bootstrap, React, Node.js, TypeScript. Atuo como professor de Robótica e Tecnologias Educacionais, busco oportunidades no mercado de desenvolvimento, sempre em busca de evolução e contribuição para o sucesso de projetos e equipes.
-
-##
-- 👨‍💻 27 anos, apaixonado por tecnologia e programação.
-- 🏡 Morando em Leme, SP.
-- 👨🏻‍💻 18° Turma de Web FullStack da GrowDev.
-- 📚 Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi.
-- 🎓 Técnico em Informática pela Etec Dep. Salin Sedeh de Leme.
-- 👨‍🏫 Professor de robótica e Tecnologias educacionais.
-- 🎾 Jogador de tenis aos finais de semana.
-
-
-## 
+Desenvolvedor Full Stack com 5 anos de experiência em robótica na área acadêmica e formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi, Técnico em Informática pela Etec Deputado Salim Sedeh. Possuo conhecimentos sólidos em JavaScript, Bootstrap, React, Node.js e TypeScript.
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">

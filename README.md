@@ -26,7 +26,6 @@ Desenvolvedor Full Stack com 5 anos de experiência em robótica na área acadê
   <img src="https://img.shields.io/badge/Render-008080?style=flat&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Axios-007ACC?style=flat&logo=axios&logoColor=white" alt="Axios">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="styled-components">

@@ -19,7 +19,10 @@ Desenvolvedor Full Stack com 5 anos de experiência em robótica na área acadê
 
 
 ## Contato
-<div style ="display: flex; flex-wrap:wrap;">
-<img src="https://img.shields.io/badge/Email-hugo_amadio%40hotmail.com-FF5500?style=flat&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-hugoamadio-0077B5?style=flat&logo=linkedin&logoColor=white">
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://wa.me/5519989067843" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-5519989067843-25D366?style=flat&logo=whatsapp&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-hugoamadio-0077B5?style=flat&logo=linkedin&logoColor=white">
 </div>
+

@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
-Desenvolvedor Full Stack com 5 anos de experiência em robótica na área acadêmica e formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi. Possuo conhecimentos sólidos em desenvolvimento web, protocolos HTTP, WebSocket, VoIP, entre outros.
+Desenvolvedor Full Stack com 5 anos de experiência em robótica e formação em Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi. Possuo conhecimentos sólidos em desenvolvimento web, protocolos HTTP, WebSocket entre outros.
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Asterisk-3CCF00?style=flat&logo=asterisk&logoColor=white" alt="Asterisk">
